@@ -17,6 +17,7 @@ or
 composer update --ignore-platform-reqs
 ```
 
+PHP COMMOND CLI VERSION = 7.0
 Add composer package to your project
 ```bash
 composer require hdfchain/hdfchain-php-api

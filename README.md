@@ -8,7 +8,7 @@
 PHP API for the [Hdfchain](https://clkj.ltd) Cryptocurrency
 
 ## Installation
-IF PHP version >7.2.0 composer It can be ignored version, Command：
+IF PHP version >7.0 composer It can be ignored version, Command：
 ```bash
 composer install --ignore-platform-reqs
 ```
